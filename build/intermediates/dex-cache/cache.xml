@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_83231404eed38d24bdbadcf1fe239e5d59d01e0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_9d374deb8c7d4671b5dffc385b4a8be24b2c896b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0f4d98305c563a6c3cc1a47b4b05fd4688cfa36b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2458914c0035ac8912459f09deb7ef769e0bb76">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70b442811ae73e38e53454f8c45bbfd851de6b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_187de630a9309ab64c662981a43615a4f86efba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="365594007739cd12a5fbe036bd8b72e0ce0bfe02">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_df64e92b0f3165ccb0f92090fc51975c2c757e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_0cc20c9de6c2bcd2ee1d4fe676b47b9ebd5c79c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_afe9d368c630516f6f33e01d0fad12389483116a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_554dc407c9c55b48f9da390adbdea65d0076d662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_b769f48bf465df646bbba919db9a123db4a3d835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_b4839bad19ec7fc73918d3cd542a87b3767bf0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/hzy/文档/AndroidStudio/ScreenMatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_d985082ea429b9d873c4217a26e398cca9d94971/classes.dex" />
+    </item>
+
+</items>
